@@ -10,7 +10,7 @@
 
   
 
-<h2 align="center">FACE FIND</h2>
+<h2 align="center">MISSED FACE FIND</h2>
 
 <h3 align="center">Submission for Microsoft Engage 2022</h3>
 
@@ -18,7 +18,6 @@
 
 A Django Web Application to help find missing people using Face Recognition.
 
-  Now deployed on Heroku! Click [here](https://facefindxyz.herokuapp.com/) to check it out!
 <br />
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tinycoder2/FaceFind?logo=github&style=for-the-badge)](https://github.com/tinycoder2/FaceFind)
@@ -106,40 +105,15 @@ For detailed instructions click [here.](https://medium.com/microsoftazure/azure-
 
 _To get a local copy of the project and run it, follow these steps._
 
-1. Create a folder in which you want set up the project. Go into that folder and check if python is installed.
-
-  ```sh
-  mkdir myFolder
-  cd myFolder
-  python --version
-
-  ```
-
-2. Clone the repository:
-
-  ```sh
-  git clone https://github.com/tinycoder2/FaceFind.git
-  ```
-
-3. Create a virtual environment to install dependencies in and activate it:
-
-  ```sh
-  python -m venv myEnv
-  cd myEnv
-  .\Scripts\activate
-  cd ..
-  ```
-
-4. Then install the dependencies:
+1. Install the dependencies:
 
   ```sh
   cd FaceFind
   pip install -r requirements.txt
   ```
 
-  
 
-5. Enter your API KEY, ENDPOINT that we got from <a  href="#credentials">Getting API credentials</a>, EMAIL ID and EMAIL PASSWORD in `config.json`
+2. Enter your API KEY, ENDPOINT that we got from <a  href="#credentials">Getting API credentials</a>, EMAIL ID and EMAIL PASSWORD in `config.json`
 
   ```json
   {
@@ -151,35 +125,29 @@ _To get a local copy of the project and run it, follow these steps._
   ```
 
 To allow the app access your email account, go to [google account setting](https://myaccount.google.com/intro/security?hl=en) , security tab and ensure that you have *Less secure app access* turned *on.*
+`
 
-6. Go to `msengage\settings.py` and change line number 18 as,
-
-  ```py
-  # Change to False if cloning and running on local host
-  IS_DEPLOYED_ON_HEROKU =  False
-  ```
-
-7. Apply migrations:
+3. Apply migrations:
 
   ```sh
   python manage.py migrate
   ```
 
-8. Create admin account :
+4. Create admin account :
 
   ```sh
   python manage.py createsuperuser
   ```
 
-Follow the promt and enter the username, preferably *"admin"*, desired email and password. Make note of the username and password as you will have to use these credentials to login.
+Follow the promt and enter the username, preferably *"semachew"*, desired email and password. Make note of the username and password as you will have to use these credentials to login.
 
-9. Run server:
+5. Run server:
 
   ```sh
   python manage.py runserver
   ```
 
-The app is now running at `http://127.0.0.1:8000/`
+The app is now running at `http://127.0.0.1:8080/`
 
 <p align="right">(<a  href="#top">back to top</a>)</p>
 
