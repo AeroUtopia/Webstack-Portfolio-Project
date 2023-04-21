@@ -20,9 +20,9 @@ A Django Web Application to help find missing people using Face Recognition.
 
 <br />
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tinycoder2/FaceFind?logo=github&style=for-the-badge)](https://github.com/tinycoder2/FaceFind)
-[![GitHub last commit](https://img.shields.io/github/last-commit/tinycoder2/FaceFind?style=for-the-badge&logo=git)](https://github.com/tinycoder2/FaceFind)
-[![Languages](https://img.shields.io/github/languages/count/tinycoder2/FaceFind?style=for-the-badge)](https://github.com/tinycoder2/FaceFind)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AeroUtopia/Webstack-Portfolio-Project?logo=github&style=for-the-badge)](https://github.com/AeroUtopia/Webstack-Portfolio-Project)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AeroUtopia/Webstack-Portfolio-Project?style=for-the-badge&logo=git)](https://github.com/AeroUtopia/Webstack-Portfolio-Project)
+[![Languages](https://img.shields.io/github/languages/count/AeroUtopia/Webstack-Portfolio-Project?style=for-the-badge)](https://github.com/AeroUtopia/Webstack-Portfolio-Project)
 [![Generic badge](https://img.shields.io/badge/view-demo-blue?style=for-the-badge&label=View%20Demo%20Video)](https://youtu.be/onXOQIu5jCg)
 
 <br />
