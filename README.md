@@ -1,12 +1,5 @@
 
 
-<br />
-
-<div align="center"><a  href="#top"></a>
-
-<img  src="landing/static/landing/img/face2.png"  alt="Logo"  width="80"  height="80">
-  
-
 <h2 align="center">MISSED FACE FIND</h2>
 
 <p align="center">
