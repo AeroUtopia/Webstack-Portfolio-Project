@@ -7,12 +7,9 @@
 <div align="center"><a  href="#top"></a>
 
 <img  src="landing/static/landing/img/face2.png"  alt="Logo"  width="80"  height="80">
-
   
 
 <h2 align="center">MISSED FACE FIND</h2>
-
-<h3 align="center">Submission for Microsoft Engage 2022</h3>
 
 <p align="center">
 
