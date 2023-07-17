@@ -184,12 +184,9 @@ The app is now running at `http://127.0.0.1:8080/`
 - Viewing all reported people, ones that need to be approved, approving a reported person (checking validity of report), viewing details of potential match, confirming the match, status of missing person changing from Leads to Found. 
 
 ### Details of Match Found
-<img  src="screenshots/details_of_match.png"  alt="detailsOfMatchFound">
 
 ### Email Received
-<img  src="screenshots/email_received.png"  alt="emailReceived">
 
-  
 
 <p align="right">(<a  href="#top">back to top</a>)</p>
 
