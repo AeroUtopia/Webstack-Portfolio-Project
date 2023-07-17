@@ -1,7 +1,5 @@
 
 
-<!-- PROJECT LOGO -->
-
 <br />
 
 <div align="center"><a  href="#top"></a>
